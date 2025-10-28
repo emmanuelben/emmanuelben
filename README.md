@@ -1,5 +1,5 @@
 
-# Hi, I'm Emmanuel Bne 👋  
+# Hi, I'm Emmanuel Ben 👋  
 **DevOps Engineer | Kubernetes & Cloud Architect | Full-Stack PHP Specialist**
 
 ---
