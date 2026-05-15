@@ -5,7 +5,7 @@
 ---
 
 🔧 **CI/CD Maestro** – GitLab CI & GitHub Actions pipelines that ship *faster than your coffee brews*.  
-☸️ **Kubernetes Whisperer** – From bare-metal to multi-cloud (GCP, DigitalOcean, Hetzner, GCP), I orchestrate clusters with **ArgoCD**, **HPA/VPA**, and zero-downtime rollouts.  
+☸️ **Kubernetes Whisperer** – From bare-metal to multi-cloud (GCP, DigitalOcean, Hetzner, AWS), I orchestrate clusters with **ArgoCD**, **HPA/VPA**, and zero-downtime rollouts.  
 🐳 **Docker Artisan** – Containerize anything. `docker-compose up` → production-grade Swarm/EKS/GKE in one breath.
 
 🌐 **Web**: PHP (Laravel), **WordPress + Elementor**, Tailwind, Bootstrap, JS – *fast & beautiful*  
