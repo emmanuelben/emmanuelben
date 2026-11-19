@@ -22,15 +22,11 @@
 
 ---
 
-🆕 **Since the K8s days**
-🛡️ **Security Engineering** – offensive security, edge/WAF hardening (Cloudflare WAF · HSTS · bot fighting), threat hunting, evidence-based incident response.
-⚛️ **Modern Full-Stack** – Next.js (App Router), React, TypeScript, Vite, Express — from marketing site to multi-tenant SaaS.
-📱 **Flutter Mobile** – payments & community apps with changeset-gated, multi-region CI/CD; store uploads stay a deliberate human act.
-💳 **Payments** – Paystack + mobile-money gateways (Africell · Qcell · Comium · Gamcel): certified test rounds, deterministic failure handling, zero phantom charges.
-🐘 **Postgres & Supabase** – schema design, Prisma, PL/pgSQL shims; Cloud and self-hosted Supabase.
-⚡ **Edge & Serverless** – Vercel platform (marketplace databases, custom domains, build-system pitfalls) + Cloudflare (DNS · WAF · Tunnels).
-🏠 **Domain depth** – ERP, real estate & short-stay/hospitality management: listings → bookings → payouts, and the back offices that run them.
-
+**Since then — what I've built and operate**
+- **Production systems**: multi-tenant ERP SaaS in production (contracts → payment plans → disbursements, plus the platform admin layer); a real estate + short-let property platform (listings → booking → Paystack checkout); a three-sided marketplace with escrow — 301 automated checks, all green.
+- **Flutter mobile**: wallet + agent app hitting four mobile-money gateways (Africell · Qcell · Comium · Gamcel), each with a documented certification run; changeset-gated multi-region CI/CD, store upload kept a human step.
+- **Stacks I ship with**: Next.js (App Router) · React · TypeScript · Vite · Express · Postgres + PL/pgSQL · Prisma · Supabase (Cloud & self-hosted) · Paystack · Docker · K8s on GCP/DO/Hetzner.
+- **Security ops**: Cloudflare WAF/HSTS/bot-fighting on live edges, Vercel platform ops (marketplace databases, custom domains), offensive security & threat hunting.
 
 🚀 **Mission**: IaC → Containers → Cash  
 📍 **Open**: remote | contract  
